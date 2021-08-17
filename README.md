@@ -1,4 +1,4 @@
-# Week-One-SQ008
+# Star-Wars-API
 
 ## Problem Description:
 
